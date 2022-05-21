@@ -1,0 +1,68 @@
+.con{
+    background-color: rgb(68, 65, 65);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    height: 250px;
+    width: 500px;
+    border-color: white;
+    margin-left: 5%;
+    margin-bottom: -15%;
+    color: rgb(250, 109, 109);
+    margin-bottom: -7%;
+    
+    
+}.line{
+    margin-left: 1%;
+    margin-top: -8%;
+}
+.signForm{
+    top: 180px;
+    position:absolute;
+    width: 280px;
+
+}.input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    outline-style: #ffffff;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid;
+    border-color: #ffffff;
+    outline: none;
+    background: transparent;
+    margin-left: 175px;
+    
+}.msgs{
+    margin-bottom: 10%;
+    display: flex;
+    padding: 10px;
+    margin-left: 95%;
+    margin-top: -8%;
+    
+
+}
+.phone{
+    margin-bottom: 5%;
+
+}
+.name{
+    margin-top: -55%;
+    margin-left: -2%;
+
+
+}.text{
+    padding: 5px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 50%
+}
+.snd{
+    padding: 5px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 130%; 
+}
+
+
